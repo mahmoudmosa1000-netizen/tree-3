@@ -22,7 +22,7 @@ Repository-Hauptverzeichnis/
 1. **Intro** — ein Nietzsche-Zitat erscheint (automatisch auf Englisch oder Arabisch, je nach Gerätesprache), bevor die Szene startet
 2. **3D-Szene** — frei navigierbarer Raum mit Baum, Galaxie, Erde und Krater, auf Basis eines Fotos als geschichtete Tiefenebenen
 3. **Zeittunnel** — erster Klick oder starkes Zoomen lösen eine ~3-sekündige Reise aus: Spiralflug, Lichtringe, Sternenstreifen, schwebende physikalische Formeln
-4. **Übergang** — automatischer Wechsel zu `Tree of Knowledge/index.html`
+4. **Übergang** — automatischer Wechsel zu `Tree of Knowledge/time_travel.html`
 
 ## Steuerung
 
