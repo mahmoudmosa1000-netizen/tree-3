@@ -11,11 +11,11 @@ Repository-Hauptverzeichnis/
 ├── README.md
 ├── index.html                      ← Startseite (GitHub Pages öffnet das automatisch)
 ├── Tree of Knowledge/
-│   └── index.html                  ← Zielseite, öffnet sich nach der Zeittunnel-Reise
+│   └── time_travel.html                  ← Zielseite, öffnet sich nach der Zeittunnel-Reise
 └── varianten/                      ← frühere Entwicklungsstufen (siehe unten)
 ```
 
-**Wichtig:** `index.html` und der Ordner `Tree of Knowledge/` müssen im selben Verzeichnis bleiben und genau so heißen (Groß-/Kleinschreibung beachten), sonst funktioniert die Weiterleitung am Ende nicht.
+**Wichtig:** `time_travel.html` und der Ordner `Tree of Knowledge/` müssen im selben Verzeichnis bleiben und genau so heißen (Groß-/Kleinschreibung beachten), sonst funktioniert die Weiterleitung am Ende nicht.
 
 ## Wie es funktioniert
 
